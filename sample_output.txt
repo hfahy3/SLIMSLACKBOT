@@ -1,0 +1,90 @@
+================================================================
+📊 *Station Health Update* — 06/24/2026 07:00
+
+*Floor 1*
+🚨 Floor 1 Bag: 71.4% ⚠️ BELOW 90%
+✅ Floor 1 Induct: 100.0%
+✅ Floor 1 Pack: 95.8%
+🚨 Floor 1 Problem Solve: 87.5% ⚠️ BELOW 90%
+
+*Floor 2*
+✅ Floor 2 Bag: 90.0%
+🚨 Floor 2 Induct: 50.0% ⚠️ BELOW 90%
+✅ Floor 2 Pack: 100.0%
+✅ Floor 2 Problem Solve: 100.0%
+
+🚨 *STATIONS WITH ISSUES (sections below 90%):*
+
+*Floor 1 Bag (71.4%):*
+  • `wsF1_106_03` — DMXX
+  • `wsF1_107_03` — DMXX
+
+*Floor 1 Problem Solve (87.5%):*
+  • `F1ps105` — Scanner
+
+*Floor 2 Induct (50.0%):*
+  • `F2in102` — PSlip Printer
+  • `F2in104` — Video, DMXX
+  • `F2in105` — Video
+================================================================
+📊 *Station Health Update* — 06/24/2026 08:00
+
+*Floor 1*
+🚨 Floor 1 Bag: 85.7% ⚠️ BELOW 90%
+✅ Floor 1 Induct: 100.0%
+🚨 Floor 1 Pack: 83.3% ⚠️ BELOW 90%
+✅ Floor 1 Problem Solve: 100.0%
+
+*Floor 2*
+✅ Floor 2 Bag: 100.0%
+✅ Floor 2 Induct: 100.0%
+🚨 Floor 2 Pack: 70.0% ⚠️ BELOW 90%
+🚨 Floor 2 Problem Solve: 75.0% ⚠️ BELOW 90%
+
+🚨 *STATIONS WITH ISSUES (sections below 90%):*
+
+*Floor 1 Bag (85.7%):*
+  • `wsF1_101_03` — DMXX
+
+*Floor 1 Pack (83.3%):*
+  • `wsF1_102_02` — DMXX
+  • `wsF1_106_02` — DMXX
+  • `wsF1_107_02` — PSlip Printer
+  • `wsF1_111_01` — Video
+
+*Floor 2 Pack (70.0%):*
+  • `wsF2_101_02` — DMXX
+  • `wsF2_102_02` — DMXX
+  • `wsF2_103_02` — DMXX
+
+*Floor 2 Problem Solve (75.0%):*
+  • `F2ps101` — Video
+  • `F2ps108` — DMXX
+================================================================
+📊 *Station Health Update* — 06/24/2026 09:00
+
+*Floor 1*
+✅ Floor 1 Bag: 100.0%
+🚨 Floor 1 Induct: 85.7% ⚠️ BELOW 90%
+🚨 Floor 1 Pack: 87.5% ⚠️ BELOW 90%
+✅ Floor 1 Problem Solve: 100.0%
+
+*Floor 2*
+✅ Floor 2 Bag: 90.0%
+🚨 Floor 2 Induct: 83.3% ⚠️ BELOW 90%
+✅ Floor 2 Pack: 100.0%
+✅ Floor 2 Problem Solve: 100.0%
+
+🚨 *STATIONS WITH ISSUES (sections below 90%):*
+
+*Floor 1 Induct (85.7%):*
+  • `F1in105` — DMXX
+
+*Floor 1 Pack (87.5%):*
+  • `wsF1_102_01` — DMXX
+  • `wsF1_107_01` — DMXX
+  • `wsF1_109_01` — PSlip Printer
+
+*Floor 2 Induct (83.3%):*
+  • `F2in101` — DMXX
+================================================================
